@@ -1,0 +1,26 @@
+.container {
+  font-size: 20px;
+  font-weight: 400;
+}
+.content {
+  max-width: 1000px;
+  margin: auto auto;
+}
+h2 {
+  text-align: center;
+}
+input {
+  width: 100%;
+}
+section {
+  padding: 40px;
+  border: 1px solid rgb(200, 199, 199);
+  background-color: #eeeeee;
+}
+.row {
+  border-top: 1px solid rgb(200, 199, 199);
+}
+.p-2 {
+  text-align: center;
+  border-right: 1px solid rgb(200, 199, 199);
+}
